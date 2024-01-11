@@ -1,0 +1,20 @@
+Amazon Linux 2 AMI-t2.micro
+sudo yum update
+sudo yum install mysql
+mysql --version
+or
+sudo yum install mariadb
+mysql --version
+
+
+
+
+
+ 
+mysql --host=HOSTNAME --user=USERNAME  --password DATABASENAME
+mysql --host=mysqldatabase.cb9lpv8kvejw.us-east-1.rds.amazonaws.com  --user=admin  --password todos
+
+
+49.206.135.252/32
+
+sudo apt update
